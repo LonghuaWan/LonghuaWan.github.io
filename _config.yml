@@ -1,7 +1,7 @@
 # Site settings
-title: Site Title
-email: somename@somedomain.com
-description: "Site Description"
+title: '万龙华的博客'
+email: longhuawan@gmail.com
+description: '个人博客,技术相关(JAVA|算法|数据库|Linux|DM)'
 logo_location: "http://placehold.it/100x100&text=LOGO"
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
