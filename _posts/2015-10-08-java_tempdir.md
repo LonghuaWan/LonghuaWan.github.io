@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: jvm参数 tmpdir
-date: 2015-10-07 23:13
-thumbnail: http://placehold.it/100x100
+date: 2015-10-08 13:27
+thumbnail: http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/1612441.gif
 title: Java tempdir
 published: true
 ---
