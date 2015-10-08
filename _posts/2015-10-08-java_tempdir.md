@@ -14,3 +14,5 @@ java -Djava.io.tmpdir=/temp
 System.out.println(System.getProperty("java.io.tmpdir"));
 可以通过如下语句在代码中设置：
 System.setProperty("java.io.tmpdir", "/temporary");
+
+[参考地址:]http://stackoverflow.com/questions/10108262/not-able-to-change-java-io-tmpdir

@@ -3,7 +3,7 @@ layout: post
 tags: machine-learning python numpy scikit-learn
 date: 2014-12-30 13:06
 thumbnail: http://jekyllcn.com/img/logo-2x.png
-title: A Demo blog
+title: 第一个博客
 published: true
 ---
 
